@@ -1,0 +1,9 @@
+/*
+ * eventName: {
+ * 
+ * }
+ */
+
+export const events = {
+
+}
